@@ -1,3 +1,3 @@
-# Exploratory Data Analysis (EDA)
+# Web Scraping Project
 
-Performed EDA on a retail dataset to uncover sales trends and customer insights.
+This project scrapes book data (title, price, rating, stock) from [books.toscrape.com](http://books.toscrape.com/).
