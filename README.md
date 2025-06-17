@@ -1,3 +1,3 @@
-# Exploratory Data Analysis (EDA)
+# Data Visualization
 
-Performed EDA on a retail dataset to uncover sales trends and customer insights.
+Generated charts from sales data using Seaborn and Matplotlib.
